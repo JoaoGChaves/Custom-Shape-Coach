@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>ENTREGA2</title>
+    ENTREGA2
 </head>
 <body>
-    <h1>LINKS</h1>
+    <h1>LINK DO JIRA <a href="https://projetofdsjgcl.atlassian.net/jira/software/projects/SPORT8708/boards/1/backlog"> </h1>
+    <h2>DIAGRAMA DE ATIVIDADES <a href="https://projetofdsjgcl.atlassian.net/jira/software/projects/SPORT8708/boards/1/backlog"></h2>
     
     <p>Este é um arquivo de readme simples para o meu projeto. Aqui está um link para a página principal do projeto:</p>
     
