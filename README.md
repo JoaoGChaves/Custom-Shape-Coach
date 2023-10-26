@@ -5,15 +5,10 @@
 </head>
 <body>
    <h1> EQUIPE:</h1>
-<img src="https://media.licdn.com/dms/image/D4D03AQFjhuLyR8wmPQ/profile-displayphoto-shrink_400_400/0/1693397011724?e=1698883200&v=beta&t=sl0sVKY59_caCtqIgcUSu92AkLcYKr821LPoTFfW7cQ" alt="">
 <p>- JOÃO GUILHERME CHAVES (jgcl@cesar.school)</p>
-<img src="https://media.licdn.com/dms/image/D4D03AQEYz3z1UVvTSg/profile-displayphoto-shrink_400_400/0/1693398001312?e=1698883200&v=beta&t=00NFVuF19Jn-S_WgsuBTSTuSQpRkDl-XepZ_N0N_5Dg" alt="">
 <p>- CAIO FONSECA (cmaf@cesar.school)</p>
-<img src="https://media.licdn.com/dms/image/D4D35AQGpszYmRs5tkg/profile-framedphoto-shrink_400_400/0/1693396967580?e=1694005200&v=beta&t=hlXRAa3wWl9pzAJ2fPtHDMLSaM5F5I0IWXTC5FiUiKo" alt="">
 <p>- GUSTAVO LAPORTE (ghml@cesar.school)</p>
-<img src="https://media.licdn.com/dms/image/D4D03AQGaAwTINq_T6A/profile-displayphoto-shrink_400_400/0/1691759125780?e=1698883200&v=beta&t=QOBp3TWW4W335VWKCynLzaDUyH_8l1SfEdeiNlCWpFY" alt="">
 <p>- MATHEOS GUERRA (mog@cesar.school)</p>
-<img src="" alt="">
 <p>- PEDRO DHALIA (pmd@cesar.school)</p>
 
 
