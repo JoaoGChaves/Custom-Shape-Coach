@@ -30,6 +30,11 @@
 
 https://projetofdsjgcl.atlassian.net/jira/software/projects/SPORT8708/boards/1/backlog
 
+## Quadro do Jira:
+
+![image](https://github.com/JoaoGChaves/Custom-Shape-Coach/assets/136398896/2f33baf8-953e-4317-b6bc-83b335a85594)
+
+
 ### Link do Diagrama de aitividades: 
 
 https://miro.com/app/board/uXjVNfchTfI=/?share_link_id=769216950976
