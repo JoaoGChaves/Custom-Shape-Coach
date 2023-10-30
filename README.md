@@ -19,3 +19,17 @@
 - MATHEOS GUERRA -> mog@cesar.school
 
 - PEDRO DHALIA -> pmd@cesar.school
+
+## 1ª Entrega ☑️
+
+### Link do Figma:
+
+## 2ª Entrega ☑️
+
+### Link do Jira: 
+
+https://projetofdsjgcl.atlassian.net/jira/software/projects/SPORT8708/boards/1/backlog
+
+### Link do Diagrama de aitividades: 
+
+https://miro.com/app/board/uXjVNfchTfI=/?share_link_id=769216950976
