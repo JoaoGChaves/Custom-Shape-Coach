@@ -48,9 +48,11 @@
 
 ### Screencast:
 
-
-
 https://github.com/JoaoGChaves/Custom-Shape-Coach/assets/136398896/a17c91b5-9c15-4602-9005-94d2234a3b53
+
+### Link do Figma:
+
+https://www.figma.com/file/dzxVsejr5vJUlNaCFKnoQ1/Untitled?type=design&node-id=0-1&mode=design&t=3kG8mfcDcSZU0gOa-0
 
 ### Link do Jira: 
 
