@@ -46,31 +46,29 @@
 
 ## 1ª Entrega ☑️
 
-### Link do Figma:
+### Screencast:
 
-## 2ª Entrega ☑️
+
+
+https://github.com/JoaoGChaves/Custom-Shape-Coach/assets/136398896/a17c91b5-9c15-4602-9005-94d2234a3b53
 
 ### Link do Jira: 
 
 https://projetofdsjgcl.atlassian.net/jira/software/projects/SPORT8708/boards/1/backlog
 
-## Quadro do Jira:
-
-![image](https://github.com/JoaoGChaves/Custom-Shape-Coach/assets/136398896/2f33baf8-953e-4317-b6bc-83b335a85594)
-
+## 2ª Entrega ☑️
 
 ### Link do Diagrama de aitividades: 
 
 https://miro.com/app/board/uXjVNfchTfI=/?share_link_id=769216950976
 
-### Relato da Pair Programming:
-
-A prática do pair programming tem sido uma revelação para nossa equipe, proporcionando uma experiência incrivelmente positiva. Trabalhar em duplas tem impulsionado nosso progresso de forma notável. Ao colaborarmos dessa maneira, conseguimos criar um código mais organizado, eficaz e de alta qualidade. A troca constante de ideias nos permite compartilhar conhecimento, fortalecendo nossa coesão como equipe e aprimorando nossas habilidades de trabalho em grupo. Isso nos ajuda a identificar problemas e encontrar soluções de forma mais rápida, tornando nosso processo de desenvolvimento mais eficiente, pois contamos com o apoio mútuo ao longo do caminho. Ao dividir as tarefas em duplas, podemos explorar nossas especialidades individuais, tornando nossa equipe mais diversificada e preparada para enfrentar uma ampla gama de desafios.
 
 ## 3ª Entrega ☑️
 
-### Links: 
+## Quadro do Jira:
 
-### Relato da Pair Programming atualizado: 
+![image](https://github.com/JoaoGChaves/Custom-Shape-Coach/assets/136398896/2f33baf8-953e-4317-b6bc-83b335a85594)
 
-Desde nossa última atualização, é emocionante observar como a prática do pair programming continuou a transformar positivamente nossa equipe. A colaboração em duplas não apenas aprimorou nossa eficiência no desenvolvimento, mas também fortaleceu nossa coesão como equipe. A troca contínua de ideias resultou em soluções inovadoras para desafios complexos, elevando a qualidade do nosso código de maneira notável. A diversidade de habilidades explorada nesse processo tem nos dado uma vantagem competitiva, permitindo-nos enfrentar uma ampla gama de desafios com confiança. Estamos ansiosos para continuar aproveitando os benefícios dessa abordagem colaborativa nos meses que virão.
+### Relato da Pair Programming:
+
+A prática do pair programming tem sido uma revelação para nossa equipe, proporcionando uma experiência incrivelmente positiva. Trabalhar em duplas tem impulsionado nosso progresso de forma notável. Ao colaborarmos dessa maneira, conseguimos criar um código mais organizado, eficaz e de alta qualidade. A troca constante de ideias nos permite compartilhar conhecimento, fortalecendo nossa coesão como equipe e aprimorando nossas habilidades de trabalho em grupo. Isso nos ajuda a identificar problemas e encontrar soluções de forma mais rápida, tornando nosso processo de desenvolvimento mais eficiente, pois contamos com o apoio mútuo ao longo do caminho. Ao dividir as tarefas em duplas, podemos explorar nossas especialidades individuais, tornando nossa equipe mais diversificada e preparada para enfrentar uma ampla gama de desafios.
