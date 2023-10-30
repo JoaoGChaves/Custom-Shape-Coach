@@ -1,6 +1,6 @@
 # Custom-Shape-Coach 💪
 
-> O Custom Shape Coach é uma plataforma de exercícios físicos, projetada para atender às suas metas de não só melhorar sua forma física, mas também a melhorar sua autoestima e saúde, independentemente de estarem em uma academia ou em casa. Com uma abordagem personalizada, o CSC oferece uma ampla gama de rotinas de treino, adaptadas tanto para você treinar em uma academia ou no conforto do seu lar. Com o Custom Shape Coach voc~e desfrutará de:
+> O Custom Shape Coach é uma plataforma de exercícios físicos, projetada para atender às suas metas de não só melhorar sua forma física, mas também a melhorar sua autoestima e saúde, independentemente de estarem em uma academia ou em casa. Com uma abordagem personalizada, o CSC oferece uma ampla gama de rotinas de treino, adaptadas tanto para você treinar em uma academia ou no conforto do seu lar. Com o Custom Shape Coach você desfrutará de:
 
 > Treinos Personalizados: O Custom Shape Coach adapta os treinos de acordo com metas individuais, nível de aptidão física e disponibilidade de tempo. Isso garante que cada usuário tenha um programa de exercícios feito sob medida para alcançar seus objetivos.
 
