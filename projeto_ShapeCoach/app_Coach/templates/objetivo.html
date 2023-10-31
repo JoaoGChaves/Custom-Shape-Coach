@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Custom Shape Coach</title>
+    <style>
+        @media (max-width: 768px) {
+            .container {
+                width: 100%;
+            }
+        }
+
+        body {
+            font-family: sans-serif;
+        }
+
+        .container {
+            width: 500px;
+            margin: 0 auto;
+        }
+
+        .botao {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .botao:hover {
+            background-color: #444;
+        }
+
+        .title {
+            height: 60px;
+            color: #000;
+            font-family: arial;
+            font-size: 55px;
+            font-style: normal;
+            font-weight: 400;
+            text-align: center;
+            width: 652.97px;
+            display: flex;
+            justify-content: center; /* Centralizar horizontalmente */
+            align-items: center; /* Centralizar verticalmente */
+        }
+
+        .title2 {
+            height: 60px;
+            color: #000;
+            font-family: arial;
+            font-size: 35px;
+            font-style: normal;
+            font-weight: 400;
+            text-align: center;
+            width: 100%;
+            display: flex;
+            justify-content: center; /* Centralizar horizontalmente */
+            align-items: center; /* Centralizar verticalmente */
+        }
+
+        button {
+            background-color: #8E8080;
+            color: #000;
+            padding: 10px;
+            border: 1px;
+            cursor: pointer;
+            font-family: arial;
+            font-size: 30px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            width: 500px;
+            margin-left: 250px;
+            margin-top: 150px;
+        }
+
+        table {
+            margin-left: -650px;
+            margin-top: -50px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">CUSTOM SHAPE COACH</h1>
+        <h2 class="title2">QUAL O SEU OBJETIVO?</h2>
+        <form action="{% url 'local' %}" method="POST">
+            {% csrf_token %}
+            <table>
+                <tr>
+                    <td>
+                        <button>GANHO DE MASSA</button>
+                    </td>
+                    <td>
+                        <button>MANUTENÇÃO DA SAÚDE</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button>PERDA DE PESO</button>
+                    </td>
+                    <td>
+                        <button>AUMENTO DE RESISTÊNCIA</button>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </div>
+</body>
+</html>

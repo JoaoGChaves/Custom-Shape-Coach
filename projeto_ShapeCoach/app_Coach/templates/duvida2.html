@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Custom Shape Coach</title>
+    <style>
+        @media (max-width: 768px) {
+            .container {
+                width: 100%;
+            }
+
+            .form-group {
+                width: 100%;
+            }
+
+            .input-group {
+                width: 100%;
+            }
+
+            .input-container {
+                text-align: center;
+            }
+        }
+
+        .container {
+            margin: 0 auto;
+        }
+
+        .botao {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .botao:hover {
+            background-color: #444;
+        }
+
+        .title {
+            height: 60px;
+            color: #000;
+            font-family: arial;
+            font-size: 55px;
+            font-style: normal;
+            font-weight: 400;
+            text-align: center;
+            width: fit-content;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-left: 420px;
+        }
+
+        .title2 {
+            height: 60px;
+            color: #000;
+            font-family: arial;
+            font-size: 35px;
+            font-style: normal;
+            font-weight: 400;
+            text-align: center;
+            width: fit-content;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-left: 550px;
+        }
+
+        button {
+            background-color: #8E8080;
+            color: #000;
+            padding: 10px;
+            border: 1px;
+            cursor: pointer;
+            font-family: arial;
+            font-size: 30px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            width: fit-content;
+            margin-left: 50px;
+            margin-top: 50px;
+        }
+
+        .bnt {
+            margin-top: 0px;
+            margin-left: 800px;
+        }
+
+        .bnt2 {
+            top: 10px;
+            margin-left: 800px;
+        }
+
+        .button {
+            position: absolute;
+            bottom: 10px;
+            left: 30px;
+            color: #000;
+            font-size: 30px;
+            line-height: normal;
+            font-style: normal;
+            font-weight: 400;
+            text-align: center;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">CUSTOM SHAPE COACH</h1>
+        <h2 class="title2">DÚVIDA NO EXERCÍCIO</h2>
+        <form action="">
+            <button>SUPINO RETO COM BARRA</button>
+        </form>
+        <form action="">
+            <button>SUPINO ENCLINADO COM HALTER</button>
+        </form>
+        <form action="">
+            <button>FLY NA MAQUINA</button>
+        </form>
+        <form action="">
+            <button class="bnt">TRICEPS CORDA NA POLIA</button>
+        </form>
+        <form action="-RsMT8">
+            <button class="bnt2">TRICEPS FRANCES UNILATERAL</button>
+        </form>
+        <form action="{% url 'treino2' %}">
+            <a class="button" href="{% url 'treino2' %}">VOLTAR</a>
+        </form>
+    </div>
+</body>
+</html>

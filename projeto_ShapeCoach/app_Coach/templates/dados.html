@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Formulário de Personal Trainer</title>
+    <style>
+         @media (max-width: 768px) {
+            .container {
+                width: 100%;
+            }
+
+            .form-group {
+                width: 100%;
+            }
+
+            .input-group {
+                width: 100%;
+            }
+
+            .input-container {
+                text-align: center;
+            }
+        }
+
+        .container {
+            margin: 0 auto;
+        }
+        
+        input {
+            width: 207px;
+            height: 23px;
+            padding: 1rem;
+            border-radius: 0.25rem;
+            border: 0px;
+            background-color: #D9D9D9;
+            outline: none;
+            font-size: 25px;
+            margin-top: 175px;
+            margin-left: 40px;
+        }
+
+        .pass, .pass1, .pass2 {
+            position: relative;
+            font-size: 45px;
+            font-family: arial;
+            font-weight: 400;
+            text-align: center;
+        }
+
+        .pass {
+            top: -50px;
+            left: 11%;
+        }
+
+        .pass1 {
+            top: -50px;
+            left: 11.5%;
+        }
+
+        .pass2 {
+            top: -50px;
+            left: 10.3%;
+        }
+
+        .title {
+            height: 60px;
+            color: #000;
+            font-family: arial;
+            font-size: 55px;
+            font-style: normal;
+            font-weight: 400;
+            margin: 0 auto;
+            width: fit-content;
+        }
+
+        .title2 {
+            height: 60px;
+            color: #000;
+            font-family: arial;
+            font-size: 55px;
+            font-style: normal;
+            font-weight: 400;
+            margin: 0 auto;
+            width: fit-content;
+            margin-top: 80px;
+        }
+
+        button {
+            background-color: #8E8080;
+            color: #000;
+            padding: 10px;
+            border: 1px;
+            cursor: pointer;
+            font-family: arial;
+            font-size: 30px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            width: 300px;
+            margin-left: 140px;
+            margin-top: 70px;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">CUSTOM SHAPE COACH</h1>
+        <form action="" method="post">
+            {% csrf_token %}
+            <label class="pass" for="idade">Idade:</label>
+            <input type="number" name="idade" id="idade">
+            <label class="pass1" for="altura">Altura:</label>
+            <input type="number" name="altura" id="altura">
+            <label class="pass2" for="peso">Peso:</label>
+            <input type="number" name="peso" id="peso">
+        </form>
+        <form action="{% url 'objetivo' %}" method="post">
+            {% csrf_token %}
+            <h1 class="title2">CONDICIONAMENTO FISICO:</h1>
+            <button>BAIXO</button>
+            <button>MEDIO</button>
+            <button>ALTO</button>
+        </form>
+    </div>
+</body>
+</html>

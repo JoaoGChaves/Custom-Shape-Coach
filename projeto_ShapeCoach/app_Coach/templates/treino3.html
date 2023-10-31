@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Custom Shape Coach</title>
+    <style>
+        @media (max-width: 768px) {
+            .container {
+                width: 100%;
+            }
+
+            .form-group {
+                width: 100%;
+            }
+
+            .input-group {
+                width: 100%;
+            }
+
+            .input-container {
+                text-align: center;
+            }
+        }
+
+        .container {
+            margin: 0 auto;
+        }
+        
+        .pass, .pass1, .pass2, .pass3, .pass4 {
+            position: relative;
+            font-size: 45px;
+            font-family: arial;
+            font-weight: 400;
+            text-align: center;
+        }
+
+        .pass {
+            top: 10px;
+            left: -195px;
+        }
+
+        .pass1 {
+            top: 20px;
+            left: -180px;
+        }
+
+        .pass2 {
+            top: 30px;
+            left: -276px;
+        }
+
+        .pass3 {
+            top: 40px;
+            left: -200px;
+        }
+
+        .pass4 {
+            top: 50px;
+            left: -270px;
+        }
+
+        .title {
+            height: 60px;
+            color: #000;
+            font-family: arial;
+            font-size: 55px;
+            font-style: normal;
+            font-weight: 400;
+            margin: 0 auto;
+            width: fit-content;
+        }
+
+        .title2 {
+            height: 60px;
+            color: #000;
+            font-family: arial;
+            font-size: 40px;
+            font-style: normal;
+            font-weight: 400;
+            margin-left: 30px;
+            width: fit-content;
+        }
+
+        .btn {
+            width: 240px;
+            text-align: center;
+            font-family: arial;
+            font-size: 15px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            padding: 1rem;
+            border-radius: 0.25rem;
+            background-color: #D9D9D9;
+            color: #000;
+            border: none;
+            cursor: pointer;
+            margin-left: 40%;
+            margin-top: 5%;
+        }
+        
+        .button {
+            position: absolute;
+            bottom: 10px;
+            left: 30px;
+            color: #000;
+            font-size: 30px;
+            line-height: normal;
+            font-style: normal;
+            font-weight: 400;
+            text-align: center;
+        }
+
+        .button2 {
+            position: absolute;
+            bottom: 10px;
+            left: 1360px;
+            color: #000;
+            font-size: 30px;
+            line-height: normal;
+            font-style: normal;
+            font-weight: 400;
+            text-align: center;
+        }
+
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">CUSTOM SHAPE COACH</h1>
+        <h2 class="title2">GANHO DE MASSA MUSCULAR - ACADEMIA (PERNA)</h2>
+        <div class="pass">EXERCÍCIO 1: AGACHAMENTO LIVRE (4X DE 8-12)</div>
+        <div class="pass1">EXERCÍCIO 2: LEVANTAMENTO TERRA (4X DE 8-12)</div>
+        <div class="pass2">EXERCÍCIO 3: LEG PRESS 45° (4X DE 8-12)</div>
+        <div class="pass3">EXERCÍCIO 4: CADEIRA EXTENSORA (5X DE 8-12)</div>
+        <div class="pass4">EXERCÍCIO 5: MESA FLEXORA (5X DE 8-12)</div>
+        <form action="{% url 'treinar' %}">
+            <a class="button" href="{% url 'treinar' %}">VOLTAR</a>
+        </form>
+        <form action="{% url 'duvida3' %}">
+            <a class="button2" href="{% url 'duvida3' %}">DUVIDAS</a>
+        </form>
+    </div>
+</body>
+</html>
