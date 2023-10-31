@@ -64,18 +64,21 @@ https://projetofdsjgcl.atlassian.net/jira/software/projects/SPORT8708/boards/1/b
 
 https://miro.com/app/board/uXjVNfchTfI=/?share_link_id=769216950976
 
+### Pair Programming:
+
+A prática do pair programming tem sido uma revelação para nossa equipe, proporcionando uma experiência incrivelmente positiva. Trabalhar em duplas tem impulsionado nosso progresso de forma notável. Ao colaborarmos dessa maneira, conseguimos criar um código mais organizado, eficaz e de alta qualidade. A troca constante de ideias nos permite compartilhar conhecimento, fortalecendo nossa coesão como equipe e aprimorando nossas habilidades de trabalho em grupo. Isso nos ajuda a identificar problemas e encontrar soluções de forma mais rápida, tornando nosso processo de desenvolvimento mais eficiente, pois contamos com o apoio mútuo ao longo do caminho. Ao dividir as tarefas em duplas, podemos explorar nossas especialidades individuais, tornando nossa equipe mais diversificada e preparada para enfrentar uma ampla gama de desafios.
 
 ## 3ª Entrega ☑️
 
-## Quadro do Jira:
+### Quadro do Jira:
 
 ![image](https://github.com/JoaoGChaves/Custom-Shape-Coach/assets/136398896/2f33baf8-953e-4317-b6bc-83b335a85594)
 
-## Diagrama de atividades:
+### Diagrama de atividades:
 
 ![Diagrama (2)-1](https://github.com/JoaoGChaves/Custom-Shape-Coach/assets/136398896/6c8745bc-811e-4c18-814a-cde099ae324e)
 
 
-### Relato da Pair Programming:
+### Relato da Pair Programming Atulizado:
 
-A prática do pair programming tem sido uma revelação para nossa equipe, proporcionando uma experiência incrivelmente positiva. Trabalhar em duplas tem impulsionado nosso progresso de forma notável. Ao colaborarmos dessa maneira, conseguimos criar um código mais organizado, eficaz e de alta qualidade. A troca constante de ideias nos permite compartilhar conhecimento, fortalecendo nossa coesão como equipe e aprimorando nossas habilidades de trabalho em grupo. Isso nos ajuda a identificar problemas e encontrar soluções de forma mais rápida, tornando nosso processo de desenvolvimento mais eficiente, pois contamos com o apoio mútuo ao longo do caminho. Ao dividir as tarefas em duplas, podemos explorar nossas especialidades individuais, tornando nossa equipe mais diversificada e preparada para enfrentar uma ampla gama de desafios.
+Após um mês de prática dedicada ao pair programming, nossa equipe alcançou um nível de sincronia e eficiência notável. A colaboração contínua em duplas não apenas fortaleceu nosso entendimento coletivo dos sistemas que estamos desenvolvendo, mas também aprimorou nossas habilidades individuais de programação. Nossa capacidade de resolver problemas complexos aumentou significativamente devido à constante troca de ideias e à habilidade de ver os desafios a partir de perspectivas diversas. Além disso, aprofundamos nossos conhecimentos nas tecnologias que utilizamos, resultando em um código mais robusto e sofisticado. A diversidade de especialidades dentro da equipe tem se destacado, permitindo-nos abordar uma variedade de problemas com diferentes perspectivas, o que tem sido crucial para superar obstáculos inesperados. A coesão e o apoio mútuo continuam a ser os pilares de nosso sucesso, tornando nossa jornada de desenvolvimento não apenas eficiente, mas também gratificante. Estamos ansiosos para continuar essa jornada de aprendizado e crescimento à medida que enfrentamos novos desafios no futuro.
