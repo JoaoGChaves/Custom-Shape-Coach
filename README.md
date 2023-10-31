@@ -73,7 +73,7 @@ https://miro.com/app/board/uXjVNfchTfI=/?share_link_id=769216950976
 
 ## Diagrama de atividades:
 
-![Diagrama de atividades entrega 3](https://github.com/JoaoGChaves/Custom-Shape-Coach/assets/136398896/56ce4ed6-c534-4014-9bdc-08b1c28d8c79)
+
 
 
 ### Relato da Pair Programming:
