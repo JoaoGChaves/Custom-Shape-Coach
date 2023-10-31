@@ -79,7 +79,11 @@ A prática do pair programming tem sido uma revelação para nossa equipe, propo
 ![Diagrama (1) (1)-1](https://github.com/JoaoGChaves/Custom-Shape-Coach/assets/136398896/1d93c7e5-bc98-4d29-b026-bf1a59fe2439)
 
 
-### Bug Tracker:
+### Screencast:
+
+
+
+https://github.com/JoaoGChaves/Custom-Shape-Coach/assets/136398896/d47229e5-ffad-4a15-845c-6e4023b3bbdb
 
 
 
