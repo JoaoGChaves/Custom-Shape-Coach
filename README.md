@@ -76,12 +76,20 @@ A prática do pair programming tem sido uma revelação para nossa equipe, propo
 
 ### Diagrama de atividades:
 
-![Diagrama (2)-1](https://github.com/JoaoGChaves/Custom-Shape-Coach/assets/136398896/6c8745bc-811e-4c18-814a-cde099ae324e)
+![Diagrama (1) (1)-1](https://github.com/JoaoGChaves/Custom-Shape-Coach/assets/136398896/1d93c7e5-bc98-4d29-b026-bf1a59fe2439)
 
-### Bug Tracker:
 
-cole aqui
+### Screencast:
 
-### Relato da Pair Programming Atulizado:
+
+
+https://github.com/JoaoGChaves/Custom-Shape-Coach/assets/136398896/d47229e5-ffad-4a15-845c-6e4023b3bbdb
+
+
+
+### Relato da Pair Programming Atualizado:
 
 Após um mês de prática dedicada ao pair programming, nossa equipe alcançou um nível de sincronia e eficiência notável. A colaboração contínua em duplas não apenas fortaleceu nosso entendimento coletivo dos sistemas que estamos desenvolvendo, mas também aprimorou nossas habilidades individuais de programação. Nossa capacidade de resolver problemas complexos aumentou significativamente devido à constante troca de ideias e à habilidade de ver os desafios a partir de perspectivas diversas. Além disso, aprofundamos nossos conhecimentos nas tecnologias que utilizamos, resultando em um código mais robusto e sofisticado. A diversidade de especialidades dentro da equipe tem se destacado, permitindo-nos abordar uma variedade de problemas com diferentes perspectivas, o que tem sido crucial para superar obstáculos inesperados. A coesão e o apoio mútuo continuam a ser os pilares de nosso sucesso, tornando nossa jornada de desenvolvimento não apenas eficiente, mas também gratificante. Estamos ansiosos para continuar essa jornada de aprendizado e crescimento à medida que enfrentamos novos desafios no futuro.
+
+## 4ª Entrega ☑️
+
