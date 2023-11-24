@@ -36,7 +36,6 @@ def pagina_dados(request):
         idade = request.get.POST('idade')
         peso = request.get.POST('peso')
         altura = request.get.POST('altura')
-        condicionamento = request.get.POST('condicionamento')
 
         novo_dados = Dados(idade=idade, peso=peso, altura=altura)
         novo_dados.save()
