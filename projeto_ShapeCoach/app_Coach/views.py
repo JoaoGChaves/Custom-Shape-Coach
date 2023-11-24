@@ -2,6 +2,9 @@ from django.shortcuts import render, redirect
 from django.contrib.auth.models import User
 from django.contrib.auth import authenticate, login
 from django.contrib import messages
+from .models import Dados
+from django.db import IntegrityError
+
 
 def pagina_login(request):
     if request.method == 'POST':
@@ -29,8 +32,23 @@ def pagina_cadastro(request):
     return render(request, 'cadastro.html')
     
 def pagina_dados(request):
+    if request.method == 'POST':
+        idade = request.get.POST('idade')
+        peso = request.get.POST('peso')
+        altura = request.get.POST('altura')
+        condicionamento = request.get.POST('condicionamento')
+
+        novo_dados = Dados(idade=idade, peso=peso, altura=altura)
+        try:
+            novo_dados.save()
+            print("Novos dados salvos:", novo_dados)
+        except IntegrityError as e:
+            print("Erro ao salvar dados:", e)
+
+
+        return redirect('objetivo')
     return render(request, 'dados.html')
-    
+
 def pagina_objetivo(request):
     return render(request, 'objetivo.html')
     

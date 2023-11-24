@@ -106,7 +106,7 @@
 <body>
     <div class="container">
         <h1 class="title">CUSTOM SHAPE COACH</h1>
-        <form action="" method="post">
+        <form action="{% url 'objetivo' %}" method="post">
             {% csrf_token %}
             <label class="pass" for="idade">Idade:</label>
             <input type="number" name="idade" id="idade">
@@ -114,13 +114,10 @@
             <input type="number" name="altura" id="altura">
             <label class="pass2" for="peso">Peso:</label>
             <input type="number" name="peso" id="peso">
-        </form>
-        <form action="{% url 'objetivo' %}" method="post">
-            {% csrf_token %}
             <h1 class="title2">CONDICIONAMENTO FISICO:</h1>
-            <button>BAIXO</button>
-            <button>MEDIO</button>
-            <button>ALTO</button>
+            <button type="submit" name="condicionamento" value="BAIXO">BAIXO</button>
+            <button type="submit" name="condicionamento" value="MEDIO">MEDIO</button>
+            <button type="submit" name="condicionamento" value="ALTO">ALTO</button>
         </form>
     </div>
 </body>
