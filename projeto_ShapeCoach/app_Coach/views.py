@@ -39,12 +39,8 @@ def pagina_dados(request):
         condicionamento = request.get.POST('condicionamento')
 
         novo_dados = Dados(idade=idade, peso=peso, altura=altura)
-        try:
-            novo_dados.save()
-            print("Novos dados salvos:", novo_dados)
-        except IntegrityError as e:
-            print("Erro ao salvar dados:", e)
-
+        novo_dados.save()
+        print("Novos dados salvos:", novo_dados)
 
         return redirect('objetivo')
     return render(request, 'dados.html')
