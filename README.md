@@ -106,3 +106,17 @@ Após um mês de prática dedicada ao pair programming, nossa equipe alcançou u
 
 ## 4ª Entrega ☑️
 
+## Quadro do Jira:
+
+
+
+## Diagrama de Atividades:
+
+
+
+## Screencast:
+
+
+
+## Relato de Pair Programming Atualizado:
+
