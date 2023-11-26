@@ -113,6 +113,9 @@ Após um mês de prática dedicada ao pair programming, nossa equipe alcançou u
 
 
 ## Diagrama de Atividades:
+> ![Diagrama ENTREGA 4](https://github.com/JoaoGChaves/Custom-Shape-Coach/assets/142994236/8875a774-21f0-4724-90d0-24d428324494)
+
+
 
 
 
