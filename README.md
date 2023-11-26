@@ -107,6 +107,8 @@ Após um mês de prática dedicada ao pair programming, nossa equipe alcançou u
 ## 4ª Entrega ☑️
 
 ## Quadro do Jira:
+> ![SPRINT 4](https://github.com/JoaoGChaves/Custom-Shape-Coach/assets/142994236/efacedc1-0a8a-4346-83d8-e094f40e4e04)
+
 
 
 
@@ -115,8 +117,6 @@ Após um mês de prática dedicada ao pair programming, nossa equipe alcançou u
 
 
 ## Screencast:
-
-
 
 ## Relato de Pair Programming Atualizado:
 
