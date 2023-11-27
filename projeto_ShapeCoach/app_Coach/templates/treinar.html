@@ -113,19 +113,19 @@
         <h1 class="title">CUSTOM SHAPE COACH</h1>
         <h2 class="title2">ESCOLHA O TIPO DE TREINO:</h2>
         <form action="{% url 'treino1' %}">
-            <button>PEITO E TRÍCEPS</button>
+            <button id = "peito">PEITO E TRÍCEPS</button>
         </form>
         <form action="{% url 'treino2' %}">
-            <button>COSTAS E BÍCEPS</button>
+            <button id = "costas">COSTAS E BÍCEPS</button>
         </form>
         <form action="{% url 'treino3' %}">
-            <button>PERNA</button>
+            <button id= "perna" >PERNA</button>
         </form>
         <form action="{% url 'home' %}">
-            <a class="button" href="{% url 'home' %}">VOLTAR</a>
+            <a id = "voltar" class="button" href="{% url 'home' %}">VOLTAR</a>
         </form>
         <button>
-            <a href="https://youtube.com/playlist?list=PLCwAHfhr-Gc9CuL0kNlRBXoHCEKIlh3F9&si=Rf8pBrpwlesKKkhO" target="_blank">PLAYLIST</a>
+            <a id = "playlist" href="https://youtube.com/playlist?list=PLCwAHfhr-Gc9CuL0kNlRBXoHCEKIlh3F9&si=Rf8pBrpwlesKKkhO" target="_blank">PLAYLIST</a>
         </button>
     </div>
 </body>
