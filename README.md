@@ -121,5 +121,7 @@ Após um mês de prática dedicada ao pair programming, nossa equipe alcançou u
 
 ## Screencast:
 
+
 ## Relato de Pair Programming Atualizado:
 
+A prática da programação em pares segue sendo uma prática fundamental na nossa jornada de desenvolvimento de software. Com o passar dos meses, essa abordagem colaborativa não apenas se tornou obrigatoriedade entre nós, mas também evoluiu, refletindo a crescente maturidade da nossa equipe. A pair programming tornou-se mais intuitiva, com cada membro trazendo suas perspectivas únicas para o projeto, permitindo-nos navegar até mesmo pelos desafios mais intricados com uma mistura equilibrada de criatividade e disciplina técnica. Com ela, agilizamos muito o nosso processo e ajudou a corrermos atrás daquilo que precisávamos por causa da falta de interesse nas primeiras entregas. 
