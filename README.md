@@ -120,6 +120,8 @@ Após um mês de prática dedicada ao pair programming, nossa equipe alcançou u
 
 
 ## Screencast:
+> https://github.com/JoaoGChaves/Custom-Shape-Coach/assets/142994236/3bb86c5f-db4f-4b35-93a1-acbb585ee4c2
+
 
 
 ## Relato de Pair Programming Atualizado:
